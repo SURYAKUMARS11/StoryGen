@@ -1,6 +1,4 @@
-StoryGen Readme File
-
-Welcome to StoryGen!
+## Welcome to StoryGen!
 
 StoryGen is an innovative web platform that combines state-of-the-art generative AI with collaborative storytelling and visual creativity. With our platform, users can craft high-quality stories encompassing fiction, non-fiction, and educational content, and bring them to life through visually stunning comic book episodes.
 
