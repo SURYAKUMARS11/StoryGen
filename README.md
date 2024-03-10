@@ -4,12 +4,12 @@ Welcome to StoryGen!
 
 StoryGen is an innovative web platform that combines state-of-the-art generative AI with collaborative storytelling and visual creativity. With our platform, users can craft high-quality stories encompassing fiction, non-fiction, and educational content, and bring them to life through visually stunning comic book episodes.
 
+![Alt Text](Image URL)
+
+
 Getting Started:
 ----------------
-1. Clone the repository from [GitHub Repo URL].
-2. Install the necessary dependencies by running `npm install`.
-3. Start the server by running `npm start`.
-4. Access StoryForge through your web browser.
+1. Clone the repository from (https://github.com/SURYAKUMARS11/StoryGen).
 
 Usage:
 ------
@@ -39,7 +39,7 @@ We welcome contributions from the community! Feel free to submit pull requests f
 
 Feedback:
 ---------
-Have feedback or suggestions? We'd love to hear from you! Reach out to us at [contact@example.com].
+Have feedback or suggestions? We'd love to hear from you! Reach out to us at @suryakumar12504@gmail.com
 
 License:
 --------
