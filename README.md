@@ -20,12 +20,6 @@ Usage:
 5. Collaborate with other users to build on each other's ideas and create a diverse storytelling ecosystem.
 6. Interact with the chatbot for assistance with story suggestions, navigation, and additional information.
 
-Tech Stack:
------------
-- Backend: Node.js and Python
-- Frontend: React.js
-- Database: MongoDB
-- Cloud: Intel Developer Cloud
 
 Challenges & Solutions:
 ------------------------
